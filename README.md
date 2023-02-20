@@ -1,6 +1,5 @@
 # Insertion Sort ve Selection-Sort-Odevi 
-[22, 27, 16, 2, 18, 6] 
-insertion sort'a göre yazınız
+[22, 27, 16, 2, 18, 6] insertion sort'a göre yazınız
 [2, 27, 16, 22, 18, 6]
 [2, 6, 16, 22, 18, 27]
 [2, 6, 16, 22, 18, 27]
